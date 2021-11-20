@@ -1,6 +1,7 @@
 <template>
   <div>
       <h1>TESTE</h1>
+      <var-button type="primary">Primary Button</var-button>
   </div>
 </template>
 
