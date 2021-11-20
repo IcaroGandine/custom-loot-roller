@@ -3,6 +3,7 @@
     <h1>Encounter Selector</h1>
 
     <h3>Enemy type</h3>
+    
     <select>
       <option v-for="type in typeArray" :key="type">{{ type }}</option>
     </select>
